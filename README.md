@@ -26,3 +26,5 @@ A literal is a *hard-code* value. Hard-coded values are values that are constant
 A variable is container fir storing a type of value. Variables are important because their values can change, or vary, throughout the execution of the program. 
 
 > Variables can assigned, read, and changed.
+
+A variable name is a human friendly label that the compiler assigns to a memory address. When you want to store or change a value in that memory address, or whenever you want to retrieve the stored value, you just use tha variable name you created.
