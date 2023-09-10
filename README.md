@@ -51,3 +51,13 @@ string firstName;
 4. Variables names should be one or more entire words appended together, do not use contractions or abbreviations.
 5. Variables names should not include the data type of the variable.
 
+
+```C#
+char userOption;
+
+int gameScore;
+
+decimal particlesPerMillion;
+
+bool processedCustomer;
+```
