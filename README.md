@@ -38,3 +38,9 @@ First of all you have to declare the *data type* of a variable and them give it 
 string firstName;
 ```
 
+## Name rules and conventions
+1. Can contain alphanumeric characters and underscore character.
+2. Do not use # symbol or $ symbol.
+3. Variables names must begin with an alphabetical letter or an underscore, not a number.
+4. Important! Variable names are case-sensitive
+
