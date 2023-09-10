@@ -71,3 +71,18 @@ firstName = "Bob";
 // We can print the value
 Console.WriteLine(firstName);
 ```
+
+### Reassign the value of a variable
+You can reassign the variable as many times as you want.
+
+```C#
+string firstName;
+firstName = "Bob";
+Console.WriteLine(firstName);
+firstName = "Liem";
+Console.WriteLine(firstName);
+firstName = "Isabella";
+Console.WriteLine(firstName);
+firstName = "Yasmin";
+Console.WriteLine(firstName);
+```
