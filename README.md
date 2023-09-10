@@ -61,3 +61,13 @@ decimal particlesPerMillion;
 
 bool processedCustomer;
 ```
+
+### Creating your 1st variable
+```C#
+// Declare a variable
+string firstName;
+// Then you assign a value to the variable
+firstName = "Bob";
+// We can print the value
+Console.WriteLine(firstName);
+```
