@@ -44,3 +44,10 @@ string firstName;
 3. Variables names must begin with an alphabetical letter or an underscore, not a number.
 4. Important! Variable names are case-sensitive
 
+### Conventions for variables
+1. Variables should use camel case.
+2. Variables names should begin with an alphabetical letter.
+3. Variables names should be descriptive and meaningful.
+4. Variables names should be one or more entire words appended together, do not use contractions or abbreviations.
+5. Variables names should not include the data type of the variable.
+
