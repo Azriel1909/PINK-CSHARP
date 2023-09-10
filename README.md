@@ -86,3 +86,10 @@ Console.WriteLine(firstName);
 firstName = "Yasmin";
 Console.WriteLine(firstName);
 ```
+
+### Implicitly typed local variables
+An Implicitly typed local variable is created by using the **var** keyword followed by a variable initialization.
+
+```C#
+var message = "Hello world!";
+```
