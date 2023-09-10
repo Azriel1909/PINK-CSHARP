@@ -28,3 +28,13 @@ A variable is container fir storing a type of value. Variables are important bec
 > Variables can assigned, read, and changed.
 
 A variable name is a human friendly label that the compiler assigns to a memory address. When you want to store or change a value in that memory address, or whenever you want to retrieve the stored value, you just use tha variable name you created.
+
+## How to declare a variable?
+
+First of all you have to declare the *data type* of a variable and them give it a name.
+
+
+```C#
+string firstName;
+```
+
