@@ -99,4 +99,12 @@ Programming let you write instructions that you want the computer to carry out. 
 
 1. The instructions you write in a programming language are called *Source Code*.
 2. The *Source* 1st must be compiled into a format that the computer can understand.
-3. 
+
+### What is compilation?
+A special program called a **compiler** converts your source into a different format that the computer's Central Processing Unit (CPU) can execute.
+
+#### What does code need to be coded?
+The CPU understands instructions that are expressed by turning thousands or millions of tiny switches either on or off.
+
+> Translating your human-readable instructions into a computer-understandable set of instructions.
+
