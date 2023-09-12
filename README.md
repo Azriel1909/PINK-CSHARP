@@ -93,3 +93,10 @@ An Implicitly typed local variable is created by using the **var** keyword follo
 ```C#
 var message = "Hello world!";
 ```
+
+## What is a programming language?
+Programming let you write instructions that you want the computer to carry out. A programming language's job is to allow a human to express their intent in a human-readable and understandable way.
+
+1. The instructions you write in a programming language are called *Source Code*.
+2. The *Source* 1st must be compiled into a format that the computer can understand.
+3. 
