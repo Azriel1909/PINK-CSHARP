@@ -108,3 +108,8 @@ The CPU understands instructions that are expressed by turning thousands or mill
 
 > Translating your human-readable instructions into a computer-understandable set of instructions.
 
+### What is syntax?
+1. When the phrase is surrounded by double-quotation marks in your C# code, it's called a literal string.
+2. The Console part is called a class. Classes "own" methods; or you could say that methods live inside of a class.
+   1. Think a class as a way to represent an object. 
+3. The period is the member access operator. In other words, the dot is how you "navigate" from the class to one of its methods.
