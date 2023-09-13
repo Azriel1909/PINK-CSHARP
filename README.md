@@ -123,3 +123,10 @@ The ```var``` keyword tells the C# compiler that the data type is implied by the
 
 ## Why use the ```var``` keyword?
 When you begin developing code for a task, you may not immediately know what data type to use. Using var can help you develop your solution more dynamically.
+
+```C#
+var nameBob = "Bob";
+var myNum = 3;
+var myFloat = 34.4;
+Console.Write("Hello, " + nameBob + " You have" + myNum + " messages in your inbox. The temperature is " + myFloat + "Celsius.");
+```
