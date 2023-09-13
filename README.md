@@ -113,3 +113,8 @@ The CPU understands instructions that are expressed by turning thousands or mill
 2. The Console part is called a class. Classes "own" methods; or you could say that methods live inside of a class.
    1. Think a class as a way to represent an object. 
 3. The period is the member access operator. In other words, the dot is how you "navigate" from the class to one of its methods.
+
+## Declare Implicitly Typed Local Variables
+A Implicitly Typed Local Variable is created by using the ```var``` keyword followed by initialization.
+
+The ```var``` keyword tells the C# compiler that the data type is implied by the assigned value. After the type is implied, the variable acts the same as if the actual type had been used to declare it.
