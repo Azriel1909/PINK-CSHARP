@@ -118,3 +118,8 @@ The CPU understands instructions that are expressed by turning thousands or mill
 A Implicitly Typed Local Variable is created by using the ```var``` keyword followed by initialization.
 
 The ```var``` keyword tells the C# compiler that the data type is implied by the assigned value. After the type is implied, the variable acts the same as if the actual type had been used to declare it.
+
+> Variables using the ```var``` keyword must be initialized
+
+## Why use the ```var``` keyword?
+When you begin developing code for a task, you may not immediately know what data type to use. Using var can help you develop your solution more dynamically.
